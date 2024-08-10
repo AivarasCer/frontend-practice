@@ -1,1 +1,1 @@
-# odin-recipes
+# Repository to practice frontend
